@@ -1,0 +1,11 @@
+.main {
+    background-color: rgb(241, 241, 241);
+    height: 80vh;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 50px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+}
